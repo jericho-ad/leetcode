@@ -4,6 +4,9 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+# Recursive solution
+
 class Solution(object):
     def preorderTraversal(self, root):
         """
