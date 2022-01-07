@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         
-        # XOR solution with O(n) runtime complexity
+        # XOR solution with O(n) runtime complexity and O(1) space complexity
         
         ans = 0
         
